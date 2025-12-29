@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**BrettChristopher/BrettChristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
 
-Here are some ideas to get you started:
+  <h1> Hi there, I'm YOUR-USERNAME! 👋 </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak" />
+
+</div>
